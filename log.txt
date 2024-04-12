@@ -1,0 +1,35 @@
+[2024-04-04 15:24:41] 568
+[2024-04-04 15:24:45] 56872
+[2024-04-04 15:25:17] 3
+[2024-04-04 15:25:26] 1
+[2024-04-04 15:25:54] 1
+[2024-04-05 11:36:50] 1425
+[2024-04-05 11:39:05] Calculated Result: 4
+[2024-04-05 11:39:06] User option: Minutes in hours
+[2024-04-05 11:39:07] User input: 240
+[2024-04-12 09:51:55] Calculated Result: 2
+[2024-04-12 09:51:56] User option: Seconds in minutes
+[2024-04-12 09:51:57] User input: 123
+[2024-04-12 09:57:28] Calculated Result: 2
+[2024-04-12 09:57:28] User option: Seconds in minutes
+[2024-04-12 09:57:29] User input: 123
+[2024-04-12 10:02:25] Calculated Result: 3924
+[2024-04-12 10:02:26] User option: Minutes in hours
+[2024-04-12 10:02:26] User input: 235456
+[2024-04-12 10:04:32] Calculated Result: 2
+[2024-04-12 10:04:33] User option: Seconds in minutes
+[2024-04-12 10:04:33] User input: 123
+[2024-04-12 10:10:38] The user entered a non-number
+[2024-04-12 10:10:44] Calculated Result: 0
+[2024-04-12 10:10:45] User option: Minutes in hours
+[2024-04-12 10:10:45] User input: 8
+[2024-04-12 10:12:10] The user entered a non-number
+[2024-04-12 10:12:12] User input: 123
+[2024-04-12 10:12:15] User option: Minutes in hours
+[2024-04-12 10:12:15] Calculated Result: 2
+[2024-04-12 10:14:11] The user entered a non-number: "sdafds"
+[2024-04-12 10:14:12] The user entered a non-number: ""
+[2024-04-12 10:14:15] The user entered a non-number: "   "
+[2024-04-12 10:14:18] User input:    123
+[2024-04-12 10:14:20] User option: Seconds in minutes
+[2024-04-12 10:14:21] Calculated Result: 2

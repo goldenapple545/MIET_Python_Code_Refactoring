@@ -1,0 +1,8 @@
+1. Merge WindowFactory.py into Windows.py
+2. Delete WindowFactory.py
+3. Add Enum to define constants for keys
+4. In class Windows rename method show() to run()
+5. Add log if user enter a non-number
+6. Add log if user reset entered value
+7. Fixed a bug of logging in the wrong order
+8. Delete window.close()
